@@ -2211,7 +2211,7 @@ h6 {margin-bottom: 80px;}
 					<div class="shoes make_it_left_shoes"><span class="small_shoes"></span></div>
 				</div>
 
-				<h2>Bill</h2>
+				<h2>Marius</h2>
 			</div>
 
 
@@ -2313,7 +2313,7 @@ h6 {margin-bottom: 80px;}
 					<div class="jerry_shoes jerry_left_shoes"><span class="jerry_small_shoes"></span></div>
 				</div>
 
-				<h2>Jerry</h2>
+				<h2>Alin</h2>
 
 
 			</div>
@@ -2380,7 +2380,7 @@ h6 {margin-bottom: 80px;}
 					</div>
 				</div>
 
-				<h2>Evil</h2>
+				<h2>Salt-stack</h2>
 
 			</div>
 
