@@ -1,6 +1,7 @@
 <html>
 <head>
     <title>Boxfuse Sample App: success!</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r72/three.js"></script>
     <style>
     body {
   overflow: hidden;
