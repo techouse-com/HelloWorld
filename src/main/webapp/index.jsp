@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Minion</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r72/three.js"></script>
     <style>
   * { margin: 0; padding: 0;}
@@ -2141,7 +2141,6 @@ h6 {margin-bottom: 80px;}
 		<div class="container">
 
 				<h1>Minions in Pure CSS</h1>
-				<h6>By <a href="">AlmaGrebi</a></h6>
 
 		
 
