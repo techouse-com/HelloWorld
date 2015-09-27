@@ -2143,76 +2143,7 @@ h6 {margin-bottom: 80px;}
 				<h1>Minions in Pure CSS</h1>
 				<h6>By <a href="">AlmaGrebi</a></h6>
 
-			<div class="bill">
-
-				<div class="lights">
-					<span class="white_light"></span>
-					<span class="dark_light"></span>
-				</div>
-				<div class="hair">
-					<span class="hair1"></span>
-					<span class="hair1 make_it_left_hair1"></span>
-					<span class="hair2"></span>
-				</div>
-
-				<div class="eyes">
-					<div class="eye_animate"></div>
-
-					<div class="glasses"></div>
-						<div class="white_part">
-							<div class="brown_eye">
-								<span class="black_part"></span>
-							</div>
-						</div>
-				</div>
-
-				<div class="black_tie">
-					<span class="right_tie">
-						<div class="top_tie"></div>
-						<div class="down_tie"></div>
-					</span>
-					<span class="left_tie">
-						<div class="top_tie"></div>
-						<div class="down_tie"></div>
-					</span>
-				</div>
-
-				<div class="smile"></div>
-
-				<div class="arm"></div>
-				<div class="hand"><span class="hand_parts"><span></div>
-
-				<div class="arm make_it_right_arm"></div>
-				<div class="hand make_it_right_hand"><span class="hand_parts"><span></div>
-
-				<div class="curves">
-					<span class="curve1"></span>
-					<span class="curve1 make_it_left_curve"></span>
-					<span class="curve2"></span>
-				</div>
-
-				<div class="clothes">
-					<div class="main"></div>
-					<div class="blue_borders"></div>
-					<div class="right_shirt"></div>
-					<div class="right_shirt make_it_left"></div>
-					<div class="bottom"></div>
-				</div>
-
-				<div class="pocket">
-					<div class="logo"></div>
-					<span class="lines"></span>
-				</div>
-
-				<div class="legs">
-					<div class="right_leg"></div>
-					<div class="right_leg make_it_left_leg"></div>
-					<div class="shoes"><span class="small_shoes"></span></div>
-					<div class="shoes make_it_left_shoes"><span class="small_shoes"></span></div>
-				</div>
-
-				<h2>Marius</h2>
-			</div>
+		
 
 
 
@@ -2313,76 +2244,15 @@ h6 {margin-bottom: 80px;}
 					<div class="jerry_shoes jerry_left_shoes"><span class="jerry_small_shoes"></span></div>
 				</div>
 
-				<h2>Alin</h2>
+				<h2>Loredana</h2>
 
 
 			</div>
 
 
-			<div class="evil">
+			
 
-				<ul class="evil_hair">
-					<li class="eh1"></li>
-					<li class="eh2"></li>
-					<li class="eh3"></li>
-					<li class="eh4"></li>
-					<li class="eh5"></li>
-				</ul>
-
-				<div class="eyes">
-					<div class="eye_animate"></div>
-
-					<div class="glasses"></div>
-						<div class="white_part">
-							<div class="brown_eye">
-								<span class="black_part"></span>
-							</div>
-						</div>
-				</div>
-
-				<div class="black_tie">
-					<span class="right_tie">
-						<div class="top_tie"></div>
-						<div class="down_tie"></div>
-					</span>
-					<span class="left_tie">
-						<div class="top_tie"></div>
-						<div class="down_tie"></div>
-					</span>
-				</div>
-
-				<div class="evil_mouth">
-					<span class="evil_teeth"></span>
-					<span class="evil_teeth1"></span>
-				</div>
-
-				<div class="clothes">
-					<div class="right_shirt evil_right_shirt"></div>
-					<div class="right_shirt evil_left_shirt"></div>
-					<div class="evil_bottom"></div>
-					<div class="evil_logo"><p>M</p></div>
-				</div>
-
-				<div class="legs">
-					<div class="evil_right_leg"></div>
-					<div class="evil_right_leg evil_left_leg"></div>
-					<div class="shoes evil_right_shoes"><span class="small_shoes"></span></div>
-					<div class="shoes evil_left_shoes"><span class="small_shoes"></span></div>
-				</div>
-
-
-				<div class="evil_hand">
-					<div class="evil_rh">
-						<span class="evil_gloves_rh"></span>
-					</div>
-					<div class="evil_lh">
-						<span class="evil_gloves_lh"></span>
-					</div>
-				</div>
-
-				<h2>Salt-stack</h2>
-
-			</div>
+			
 
 
 		</div>
