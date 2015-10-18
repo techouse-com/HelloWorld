@@ -2243,7 +2243,7 @@ h6 {margin-bottom: 80px;}
 					<div class="jerry_shoes jerry_left_shoes"><span class="jerry_small_shoes"></span></div>
 				</div>
 
-				<h2>Loredana</h2>
+				<h2>Hi, I'm a minion</h2>
 
 
 			</div>
