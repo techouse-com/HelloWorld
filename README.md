@@ -1,7 +1,7 @@
-boxfuse-sample-java-war-hello
+minion-sample-java-war-hello
 =============================
 
-Boxfuse Sample Hello World Java application packaged as a war file
+Minion Hello World Java application packaged as a war file
 
 ## Prerequisites
 
@@ -13,7 +13,7 @@ Boxfuse Sample Hello World Java application packaged as a war file
 
 ## Running
 
-1. git clone https://github.com/boxfuse/boxfuse-sample-java-war-hello
+1. git clone https://github.com/techouse-com/HelloWorld.git
 2. cd boxfuse-sample-java-war-hello
 3. mvn package
 4. boxfuse run target/hello-1.0.war
